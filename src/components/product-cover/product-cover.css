@@ -1,0 +1,13 @@
+.product-cover{
+    height: 170px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+    transition: transform 500ms ease;
+}
+
+.product-cover:hover{
+    opacity: 0.5;
+}

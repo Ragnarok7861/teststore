@@ -1,0 +1,20 @@
+.product-page_content {
+    display: flex;
+}
+
+.product-page_left {
+    margin-left: -50px;
+    width: 50px;
+}
+
+.product-page_right {
+    margin-top: -500px;
+    margin-left: 600px;
+    width: 30%;
+}
+
+.product-page_buy-product {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+}
